@@ -48,7 +48,7 @@ And there are five employees defined within the Employees table:
 
 ## Submission:
 
-
+- Take a screen shot of creation of two tables.
 - After finishing the task take screen shot of the 2 tables records.
 - Select All employees in Human Resources and Accounting Department (take screen shot).
 - Select All employees whose salary is above 8500 (take screen shot).
