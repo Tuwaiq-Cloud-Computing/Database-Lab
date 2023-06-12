@@ -1,60 +1,6 @@
-# Database-Lab
-
-
-## Tasks:
-
-
-In this task you will create Employees and Departments tables as following:
-
-
-
-### Departments table:
-- Department_id (int) / PK
-- Department_Name (varchar)
-
-
-
-### Employees table:
-- Employee_id (int) / PK
-- Employee_name (varchar)
-- Employee_Salary (int)
-- Department_Id (reference to departments table)
-
-
-
-</br>
-</br>
-
-There are four departments defined within the Departments table:
-
-
-- Human resources
-- Development
-- Sales
-- Accounting
-
-
-</br>
-
-And there are five employees defined within the Employees table:
-
-
-- Naif (Department: Human Resources, Salary: 10000)
-- Khaled (Department: Human Resources, Salary: 9000)
-- Noura Rasheed (Department: Development, Salary: 8500)
-- Saleh (Department: Sales, Salary: 8500)
-- Deem (Department: Sales, Salary: 11000)
-- Sara (Department: Accounting, Salary: 8000)
-
-
-</br>
-
-## Submission:
-
-- Take a screen shot of creation of two tables.
-- After finishing the task take screen shot of the 2 tables records.
-- Select All employees in Human Resources and Accounting Department (take screen shot).
-- Select All employees whose salary is above 8500 (take screen shot).
-- Then upload the pictures to the forked repo and then create a pull request.
-
-----------------------------------------------------------------
+<img width="725" alt="Screenshot 2023-06-12 at 7 42 11 PM" src="https://github.com/ram1050/Database-Lab/assets/74604230/fb12fff0-bf5a-4edd-9fbf-4dd582e9a03e">
+<img width="1017" alt="Screenshot 2023-06-12 at 7 41 23 PM" src="https://github.com/ram1050/Database-Lab/assets/74604230/27913daa-02ed-4883-8b41-e00c207bf8bb">
+<img width="833" alt="Screenshot 2023-06-12 at 7 34 16 PM" src="https://github.com/ram1050/Database-Lab/assets/74604230/46e217e1-86e1-4656-b12e-11d726b9e742">
+<img width="649" alt="Screenshot 2023-06-12 at 7 34 11 PM" src="https://github.com/ram1050/Database-Lab/assets/74604230/f32dae98-913e-454a-acbe-475a00c27a75">
+<img width="505" alt="Screenshot 2023-06-12 at 7 32 42 PM" src="https://github.com/ram1050/Database-Lab/assets/74604230/bddbeeb9-e537-4bfb-b9f6-26a6b1cd0b35">
+<img width="427" alt="Screenshot 2023-06-12 at 7 32 38 PM" src="https://github.com/ram1050/Database-Lab/assets/74604230/4a3291d7-c55a-43f1-a02d-a4be0e384faf">
