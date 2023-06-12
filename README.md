@@ -7,16 +7,19 @@
 In this task you will create Employees and Departments tables as following:
 
 
+
+### Departments table:
+- Department_id (int) / PK
+- Department_Name (varchar)
+
+
+
 ### Employees table:
 - Employee_id (int) / PK
 - Employee_name (varchar)
 - Employee_Salary (int)
 - Department_Id (reference to departments table)
 
-
-### Departments table:
-- Department_id (int) / PK
-- Department_Name (varchar)
 
 
 </br>
